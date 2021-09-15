@@ -1,0 +1,11 @@
+{
+  "name": "liver_person",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "websocket": "^1.0.34",
+    "ws": "^8.2.2"
+  },
+  "scripts": {}
+}
